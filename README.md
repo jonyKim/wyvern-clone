@@ -1,15 +1,16 @@
-# Getting Started with Create React App
-This project is from https://github.com/wyvernprotocol/wyvern-v3 for analysis and needs to set truffle.
-I clone from wyvern-v3 Git and run the yarn command, a build error occurs in my computer environment.
-So I reconfigured to build and running. 
-Packages required during the analysis process will be added one by one. 
+Wyvern v3.1
+-----------
+This project is from https://github.com/wyvernprotocol/wyvern-v3 for analysis and needs to set truffle. <br>
+I clone from wyvern-v3 Git and run the yarn command, a build error occurs in my computer environment. <br>
+So I reconfigured to build and running. <br>
+Packages required during the analysis process will be added one by one. <br>
 
-Model Name: Mac mini
-Model Identifier: Macmini9,1
-Chip: Apple M1
-Total number of cores: 8 (4 performance and 4 efficiency)
-Memory: 16 GB
-OS : macOS BigSur 11.4
+- Model Name: Mac mini
+- Model Identifier: Macmini9,1
+- Chip: Apple M1
+- Total number of cores: 8 (4 performance and 4 efficiency)
+- Memory: 16 GB
+- OS : macOS BigSur 11.4
 
 ### Development
 
